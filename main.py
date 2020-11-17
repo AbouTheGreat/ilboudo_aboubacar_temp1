@@ -1,2 +1,5 @@
 while True: 
-    print("Temperature (F): " + input.temperature(TemperatureUnit.FAHRENHEIT))
+    print("Current Room Temperature: "+ input.temperature(TemperatureUnit.FAHRENHEIT)+"°F " +"- "+input.temperature(TemperatureUnit.CELSIUS)+"°C")
+    
+
+    
