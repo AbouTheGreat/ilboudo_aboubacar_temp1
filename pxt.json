@@ -1,0 +1,28 @@
+{
+    "name": "Ilboudo_Aboubacar_Temp1",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.64",
+        "tag": "v0.13.64",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/b86c87220dda3364e856c4ebf56fd8084ccd1481",
+        "target": "0.13.64",
+        "pxt": "6.6.7",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
